@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationBoUI", "AutomationBoUI\AutomationBoUI.csproj", "{82EF7BF9-C19E-4B6F-B7C1-6476F2D17BD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82EF7BF9-C19E-4B6F-B7C1-6476F2D17BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82EF7BF9-C19E-4B6F-B7C1-6476F2D17BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82EF7BF9-C19E-4B6F-B7C1-6476F2D17BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EF7BF9-C19E-4B6F-B7C1-6476F2D17BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C2979A6-76C0-4D65-A231-305C2E4E8DE5}
+	EndGlobalSection
+EndGlobal
